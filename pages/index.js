@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Kentaro Iwata</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -24,6 +24,10 @@ export default function Home() {
 
           <a href="https://github.com/k3ntar0" className="card">
             <h3>GitHub 🐙</h3>
+          </a>
+          
+          <a href="https://y.at/📱⚡💻" className="card">
+            <h3>Yat 🖖</h3>
           </a>
         </div>
       </main>
