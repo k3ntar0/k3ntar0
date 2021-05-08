@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Hi there 👋
+
+<img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif">
